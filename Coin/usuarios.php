@@ -12,7 +12,7 @@ include "include/consultas.php";
     <link rel="stylesheet" href="css/dark.css">
     <link rel="stylesheet" href="css/pace.css">
     <script src="js/jquery.js"></script>
-    <title>Escritorio| IscjlchavezGAdmin</title>
+    <title></title>
 </head>
 <body>
     <div class="container">
